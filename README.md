@@ -1,3 +1,10 @@
 # Tang-Ming.github.io
 a simple websocket demo
-something
+step one
+npm install 
+
+step two 
+node app.js
+
+
+
